@@ -12,6 +12,7 @@ public class EverListenActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ever_listen);
+        // do something
     }
 
     @Override
